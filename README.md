@@ -1,0 +1,3 @@
+# X-coin
+
+readme
